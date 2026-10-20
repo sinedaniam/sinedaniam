@@ -26,7 +26,13 @@ I currently work at the **Kenya National Highways Authority**, where my work com
 
 **Python:** pandas, statsmodels, linearmodels, scikit-learn, matplotlib
 
-### Featured: Kenya Economic Dashboard
+### Featured: A Decade of Building
+
+[![A Decade of Building: Kenya's infrastructure 2015–2024](https://raw.githubusercontent.com/sinedaniam/kenya-infrastructure-decade/main/docs/preview.png)](https://sinedaniam.github.io/kenya-infrastructure-decade/)
+
+An interactive long-read on what Kenya built from 2015 to 2024 (roads, power, water, housing, rail and ports) and how much of it reached households. It draws on official KNBS and World Bank data. **[Read the report →](https://sinedaniam.github.io/kenya-infrastructure-decade/)**
+
+### Kenya Economic Dashboard
 
 [![Kenya Economic Dashboard](https://raw.githubusercontent.com/sinedaniam/kenya-economic-dashboard/main/docs/preview.png)](https://sinedaniam.github.io/kenya-economic-dashboard/)
 
@@ -36,6 +42,7 @@ An interactive dashboard of Kenya's growth, inflation, economic structure and re
 
 | Project | What it shows |
 |---|---|
+| [A Decade of Building](https://github.com/sinedaniam/kenya-infrastructure-decade) | Infrastructure analysis 2015–2024: a household Reach Index, a housing gap estimate and distance-to-2030 projections from KNBS and World Bank data |
 | [Kenya Economic Dashboard](https://github.com/sinedaniam/kenya-economic-dashboard) | Interactive macro dashboard (Python data pipeline, Plotly.js, GitHub Pages, monthly auto-refresh with GitHub Actions) |
 | [Road Project Cost–Benefit Appraisal](https://github.com/sinedaniam/road-project-cba) | Economic appraisal model for a road upgrade: NPV, EIRR, BCR, switching values and Monte Carlo risk analysis |
 | [Infrastructure and Growth in Sub-Saharan Africa](https://github.com/sinedaniam/infrastructure-growth-africa) | Panel econometrics (pooled OLS vs. two-way fixed effects) on electricity access and growth across 43 countries |
