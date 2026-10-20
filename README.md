@@ -26,10 +26,17 @@ I currently work at the **Kenya National Highways Authority**, where my work com
 
 **Python:** pandas, statsmodels, linearmodels, scikit-learn, matplotlib
 
+### Featured: Kenya Economic Dashboard
+
+[![Kenya Economic Dashboard](https://raw.githubusercontent.com/sinedaniam/kenya-economic-dashboard/main/docs/preview.png)](https://sinedaniam.github.io/kenya-economic-dashboard/)
+
+An interactive dashboard of Kenya's growth, inflation, economic structure and regional position. It runs on live World Bank data and refreshes automatically every month. **[Open the live dashboard →](https://sinedaniam.github.io/kenya-economic-dashboard/)**
+
 ### Selected projects
 
 | Project | What it shows |
 |---|---|
+| [Kenya Economic Dashboard](https://github.com/sinedaniam/kenya-economic-dashboard) | Interactive macro dashboard (Python data pipeline, Plotly.js, GitHub Pages, monthly auto-refresh with GitHub Actions) |
 | [Road Project Cost–Benefit Appraisal](https://github.com/sinedaniam/road-project-cba) | Economic appraisal model for a road upgrade: NPV, EIRR, BCR, switching values and Monte Carlo risk analysis |
 | [Infrastructure and Growth in Sub-Saharan Africa](https://github.com/sinedaniam/infrastructure-growth-africa) | Panel econometrics (pooled OLS vs. two-way fixed effects) on electricity access and growth across 43 countries |
 | [Forecasting Kenya's Inflation](https://github.com/sinedaniam/kenya-inflation-forecasting) | ARIMA models tested against simple benchmarks in a rolling-origin backtest, with a 3-year forecast |
